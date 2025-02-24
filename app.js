@@ -15,7 +15,6 @@ function agregarAmigo() {
         alert('No repetir nombre, usar segundo nombre de ser necesario.');
         amigos.pop(nombreAmigo);
     }
-
     if (nombreAmigo === '') {
         alert('El campo está vacío, debe escribir un nombre.');
     } else {
