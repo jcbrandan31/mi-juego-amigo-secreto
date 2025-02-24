@@ -1,5 +1,6 @@
 <h1> Juego del Amigo Secreto </h1>
-https://postimg.cc/tZYqts90
+
+"C:\Users\usser\Desktop\Jorge Ciro\Programacion-G8-ONE Oracle Latam\challenge-amigo-secreto_esp-main\assets\Pantalla_principal.png"https://postimg.cc/tZYqts90
 [![Pantalla-principal.png](https://i.postimg.cc/85b7Gv3C/Pantalla-principal.png)](https://postimg.cc/tZYqts90)
 https://postimg.cc/tZYqts90
 https://i.postimg.cc/85b7Gv3C/Pantalla-principal.png
