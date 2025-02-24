@@ -6,6 +6,7 @@ En este CHALLENGE, se desarrollo un programa con Visual Studio Code que permite 
 
 <h2>Captura del imput para ingresar los nombres</h2>
 
+<<<<<<< HEAD
 <h2> Botones para sortear y reiniciar lista</h2>
 
 <h2> Ejemplo de funcionamiento</h2>
@@ -13,3 +14,13 @@ En este CHALLENGE, se desarrollo un programa con Visual Studio Code que permite 
 <h2> Autor: Jorge Ciro Brandan</h2>
 
 [def]: assets/Pantalla_principal.png
+=======
+
+<h2> Botones para sortear y reiniciar lista</h2>
+
+
+<h2> Ejemplo de funcionamiento</h2>
+
+
+<h2> Autor: Jorge Ciro Brandan</h2>
+>>>>>>> 18edd060a8c97f47b68fda3c78cae4803bdda53d
