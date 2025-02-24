@@ -11,6 +11,8 @@
 
 ![Image Alt](https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/48761dd7bb61663ce6c3b8ec881312fdf347c106/Captura%20de%20pantalla%202025-02-24%20153117.png).
 
+![Image Alt](https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/95f7f74801d3a5815197a6424a3bd4d32c698357/Captura%20de%20pantalla%202025-02-24%20195022.png).
+
 ![Image Alt](https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/9f92c3646adf09c0679a2d0b3c36066551f07c09/Captura%20de%20pantalla%202025-02-24%20153441.png).
 
 ![Image Alt](https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/c9c812a04339de37e81c5a334d45ef50e92a3557/Captura%20de%20pantalla%202025-02-24%20153720.png).
