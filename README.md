@@ -19,5 +19,8 @@
 
 ![Image Alt](https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/c9c812a04339de37e81c5a334d45ef50e92a3557/Captura%20de%20pantalla%202025-02-24%20153720.png).
 
+![Image Alt](https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/394ab130941f7167197109181c5a4bff8ff319c1/Captura%20de%20pantalla%202025-02-24%20195157.png).
+
+
   
 <h2>Autor: Jorge Ciro Brandan</h2>
