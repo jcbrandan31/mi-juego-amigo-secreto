@@ -1,5 +1,5 @@
 <h1> Juego del Amigo Secreto </h1>
-![Image alt](https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/main/Pantalla_principal.png?raw=true).
+![Image alt].(https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/main/Pantalla_principal.png?raw=true).
 <p>
 En este CHALLENGE, se desarrollo un programa con Visual Studio Code que permite a los usuarios ingresar los nombres de sus amigos, agregar estos nombres a una lista, y, finalmente, realizar un sorteo aleatorio para seleccionar un nombre de la lista. Este sistema incluye validaciones para evitar que se ingresen cadenas vacías o repetidas y ofrecerá una interfaz en formato website sencilla y amigable para su uso.
 </p>
