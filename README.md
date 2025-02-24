@@ -1,4 +1,5 @@
 <h1> Juego del Amigo Secreto </h1>
+[![Pantalla-principal.png](https://i.postimg.cc/85b7Gv3C/Pantalla-principal.png)](https://postimg.cc/tZYqts90)
 https://postimg.cc/tZYqts90
 https://i.postimg.cc/85b7Gv3C/Pantalla-principal.png
 ![Image alt](https://github.com/jcbrandan31/mi-juego-amigo-secreto/blob/5041e265b09ca2b9822369c83b9db5ff48953761/Pantalla_principal.png).
